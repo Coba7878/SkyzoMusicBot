@@ -300,7 +300,7 @@ async def play(_, message: Message):
   ╚ ❒ **{BOT_NAME}**
 ³ <b>{title3[:65]}</b>
   ╠ ❒ [sᴜʙsᴄʀɪʙᴇ ᴘʟᴇᴀsᴇ](https://t.me/chjuvenilee)
-  ╚ ❒ *{BOT_NAME}**
+  ╚ ❒ **{BOT_NAME}**
 ⁴ <b>{title4[:65]}</b>
   ╠ ❒ [sᴜʙsᴄʀɪʙᴇ ᴘʟᴇᴀsᴇ](https://t.me/chjuvenilee)
   ╚ ❒ **{BOT_NAME}**
