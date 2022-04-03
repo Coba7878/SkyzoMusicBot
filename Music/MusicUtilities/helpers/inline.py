@@ -23,7 +23,7 @@ def play_markup(videoid, user_id):
     ]
     return buttons 
 
-def more_markup(videoid, user_id):
+def mores_markup(videoid, user_id):
     buttons= [
             [
                 InlineKeyboardButton(text="▶️", callback_data=f'resumevc2'),
